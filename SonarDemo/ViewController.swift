@@ -9,19 +9,22 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-    func mastFunction () -> String {
+    
+    func mastFunction () -> String? {
         var noProb = "test one"
         
-        return noProb
+        return nil
     }
     
     func secretCode  ()       {
+        
+        let newText = "hello " + mastFunction ()!
+        
         var dis = ""
         var  a = 10
         var b =  20
@@ -40,7 +43,7 @@ class ViewController: UIViewController {
         }
         let make = 20
         var maked = 20
-
+        
         var string = "here we need to add 20 line of code otherwise it will be ignored"
         secretCode ()
         secretCode()
@@ -66,6 +69,6 @@ class ViewController: UIViewController {
         }
         return x
     }
-
+    
 }
 
