@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="setUp(...) at ./SonarDemoTests/SonarDemoTests.swift:14">
+			<value>1</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="tearDown(...) at ./SonarDemoTests/SonarDemoTests.swift:18">
+			<value>2</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="testExample(...) at ./SonarDemoTests/SonarDemoTests.swift:22">
+			<value>3</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="testPerformanceExample(...) at ./SonarDemoTests/SonarDemoTests.swift:27">
+			<value>4</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="2.5"/>
+		<average label="CCN" value="1.0"/>
+		<item name="viewDidLoad(...) at ./SonarDemo/ViewController.swift:13">
+			<value>5</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="mastFunction(...) at ./SonarDemo/ViewController.swift:18">
+			<value>6</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<item name="secretCode(...) at ./SonarDemo/ViewController.swift:24">
+			<value>7</value>
+			<value>30</value>
+			<value>3</value>
+		</item>
+		<item name="kasdfhksdsdjfhskafhskfhskafhksahfkashfhasfhaskfhsaklfhlsakfdhksafhksafhkasfhksaf(...) at ./SonarDemo/ViewController.swift:59">
+			<value>8</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="simpleMax(...) at ./SonarDemo/ViewController.swift:63">
+			<value>9</value>
+			<value>6</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="6.111111111111111"/>
+		<average label="CCN" value="1.3333333333333333"/>
+		<item name="application(...) at ./SonarDemo/AppDelegate.swift:17">
+			<value>10</value>
+			<value>3</value>
+			<value>2</value>
+		</item>
+		<item name="applicationWillResignActive(...) at ./SonarDemo/AppDelegate.swift:22">
+			<value>11</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidEnterBackground(...) at ./SonarDemo/AppDelegate.swift:27">
+			<value>12</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillEnterForeground(...) at ./SonarDemo/AppDelegate.swift:32">
+			<value>13</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationDidBecomeActive(...) at ./SonarDemo/AppDelegate.swift:36">
+			<value>14</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<item name="applicationWillTerminate(...) at ./SonarDemo/AppDelegate.swift:40">
+			<value>15</value>
+			<value>2</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="4.533333333333333"/>
+		<average label="CCN" value="1.2666666666666666"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="./Pods/Target Support Files/Pods-SonarDemo/Pods-SonarDemo-dummy.m">
+			<value>1</value>
+			<value>4</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="./Pods/Target Support Files/Pods-SonarDemo/Pods-SonarDemo-umbrella.h">
+			<value>2</value>
+			<value>2</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="./Pods/Target Support Files/Pods-SonarDemoTests/Pods-SonarDemoTests-dummy.m">
+			<value>3</value>
+			<value>4</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="./Pods/Target Support Files/Pods-SonarDemoTests/Pods-SonarDemoTests-umbrella.h">
+			<value>4</value>
+			<value>2</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="./SonarDemoTests/SonarDemoTests.swift">
+			<value>5</value>
+			<value>14</value>
+			<value>4</value>
+			<value>4</value>
+		</item>
+		<item name="./SonarDemo/ViewController.swift">
+			<value>6</value>
+			<value>48</value>
+			<value>8</value>
+			<value>5</value>
+		</item>
+		<item name="./SonarDemo/AppDelegate.swift">
+			<value>7</value>
+			<value>18</value>
+			<value>7</value>
+			<value>6</value>
+		</item>
+		<average label="NCSS" value="13.142857142857142"/>
+		<average label="CCN" value="2.7142857142857144"/>
+		<average label="Functions" value="2.142857142857143"/>
+		<sum label="NCSS" value="92"/>
+		<sum label="CCN" value="19"/>
+		<sum label="Functions" value="15"/>
+		<average label="NCSS" value="4.533333333333333"/>
+		<average label="CCN" value="1.2666666666666666"/>
+	</measure>
+</cppncss>
+

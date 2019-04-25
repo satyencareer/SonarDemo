@@ -1,0 +1,31 @@
+Analyzing 3 files:
+...
+
+[44;30m**********[m [42;30m/Users/satyen/Documents/SonarDemo/SonarDemo/AppDelegate.swift[m [44;30m**********[m
+/Users/satyen/Documents/SonarDemo/SonarDemo/AppDelegate.swift:[44;30m46:[m[44;30m  [m [43;30mwarning:[m [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+[44;30m**********[m [42;30m/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift[m [44;30m**********[m
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m18:[m[44;30m22:[m [43;30mwarning:[m [parenthesis-whitespace] Parentheses should not be preceded by whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m20:[m[44;30m08:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m23:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m24:[m[44;30m20:[m [43;30mwarning:[m [parenthesis-whitespace] Parentheses should not be preceded by whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m24:[m[44;30m31:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m28:[m[44;30m08:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m29:[m[44;30m19:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m34:[m[44;30m08:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m37:[m[44;30m08:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m38:[m[44;30m20:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m58:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m59:[m[44;30m92:[m [43;30mwarning:[m [brace-style] Opening brace should have exactly one space before it
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m60:[m[44;30m08:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m62:[m[44;30m04:[m [43;30mwarning:[m [trailing-whitespace] Line should not have any trailing whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m63:[m[44;30m19:[m [43;30mwarning:[m [angle-bracket-whitespace] Chevrons should not be preceded by whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m63:[m[44;30m21:[m [43;30mwarning:[m [angle-bracket-whitespace] Chevrons content should not start with whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m63:[m[44;30m35:[m [43;30mwarning:[m [angle-bracket-whitespace] Chevrons content should not end with whitespace
+/Users/satyen/Documents/SonarDemo/SonarDemo/ViewController.swift:[44;30m71:[m[44;30m   [m [43;30mwarning:[m [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+[44;30m**********[m [42;30m/Users/satyen/Documents/SonarDemo/SonarDemoTests/SonarDemoTests.swift[m [44;30m**********[m
+/Users/satyen/Documents/SonarDemo/SonarDemoTests/SonarDemoTests.swift:[44;30m14:[m[44;30m24:[m [43;30mwarning:[m [parenthesis-whitespace] Parentheses should not be preceded by whitespace
+
+Analyzed 3 files, skipped 0 files, and detected 20 violations (0 errors, 20 warnings).
+
