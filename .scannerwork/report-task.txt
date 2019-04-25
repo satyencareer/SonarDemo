@@ -3,5 +3,5 @@ projectKey=satyencareer_SonarDemo
 serverUrl=https://sonarcloud.io
 serverVersion=7.8.0.23906
 dashboardUrl=https://sonarcloud.io/dashboard?id=satyencareer_SonarDemo
-ceTaskId=AWpTXmA6oQGPGjAgumAc
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWpTXmA6oQGPGjAgumAc
+ceTaskId=AWpT2THbqgf9CEMuJDO8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWpT2THbqgf9CEMuJDO8

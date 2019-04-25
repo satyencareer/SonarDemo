@@ -60,6 +60,7 @@ class ViewController: UIViewController {
     }
     
     func kasdfhksdsdjfhskafhskfhskafhksahfkashfhasfhaskfhsaklfhlsakfdhksafhksafhkasfhksaf(){
+        _ = MyClass(myClassTwo: MyClasssTwo())
         
     }
     
@@ -72,3 +73,18 @@ class ViewController: UIViewController {
     
 }
 
+class MyClass {
+    var myClassTwo: MyClasssTwo
+    init(myClassTwo: MyClasssTwo) {
+        self.myClassTwo = myClassTwo
+        self.myClassTwo.add(myClass: self)
+    }
+}
+
+class MyClasssTwo {
+    var myClassArray: [MyClass] = []
+    
+    func add(myClass: MyClass) {
+        self.myClassArray.append(myClass)
+    }
+}
